@@ -6,13 +6,7 @@ It also uses a class that prints the array as well as a class that swaps two ele
 
 Contains the following Algorithms:
 
-Search: 
-  Linear Search - O(n)
+Search: Linear Search O(n)
 
-Sort:
-  Bubble Sort     - O(n^2)
-  Insertion Sort  - O(n^2)
-  Merge Sort      - O(nlog(n))
-  Quick Sort      - O(nlog(n))
-  Selection Sort  - O(n^2)
+Sort: Bubble Sort O(n^2) -- Insertion Sort O(n^2) -- Merge Sort O(nlog(n)) -- Quick Sort O(nlog(n)) -- Selection Sort O(n^2)
   
